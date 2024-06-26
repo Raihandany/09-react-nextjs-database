@@ -63,3 +63,12 @@ Jangan lupa push dengan pesan commit: "W09: Jawaban soal 5"."
     The results of the Vercel dashboard that I got can be seen from this screen shot.
 
 <br />
+
+## Soal 6
+"Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+Jangan lupa push dengan pesan commit: "W09: Jawaban soal 6"."
+
+![Screenshot](assets-report/09-jawaban-soal-6.png)<br />
+    
+
+<br />
