@@ -31,10 +31,22 @@
 Jangan lupa push dengan pesan commit: "W09: Jawaban soal 3". "
 
 ![Screenshot](assets-report/09-jawaban-soal-3-1.png)<br />
-![Screenshot](assets-report/09-jawaban-soal-3-1.png)
+![Screenshot](assets-report/09-jawaban-soal-3-2.png)
 
     We can do the npm run seed command to seed our data to the database, we need to configure in package.json by adding the code "seed": "node -r dotenv/config ./src/seeder/seed.js" in the bait scripts.
     Need to do the command npm i --save dotenv and npm i --save bcrypt first to overcome / prevent dotenv module errors and bcrypt module errors.
     After that, change the code in seed.js by changing the code to require( ./data.js ) if there is a Cannot find module 'data.js' error.
+
+<br />
+
+## Soal 4
+"Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan!
+Jangan lupa push dengan pesan commit: "W09: Jawaban soal 4"."
+
+![Screenshot](assets-report/09-jawaban-soal-4-1.png)<br />
+    In this practicum, I coded a SQL query according to the practicum directions that search for 'invoices.amount = 666'. In this code query, we are trying to find in the invoice table based on custermer.id which is the customer that has amaount = 666.
+    <br />
+![Screenshot](assets-report/09-jawaban-soal-4-2.png)<br />
+    In executing my own customized SQL query, I tried to find invoice.status = 'paid', which will bring up the data of the customer name and amount that have paid status based on the costumer.id field.
 
 <br />
