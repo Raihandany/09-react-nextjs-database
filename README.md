@@ -16,3 +16,12 @@
     We can use or implement Vercel to create web-based applications. It can be easily connected with NextJS framework in React programming language and other frameworks, producing with fast speed and high reliability in its infrastructure. By being able to connect with Repositories on GitHub that are owned, with only 1 time configuration easily and instantly without the need to configure each push repository.
 
 <br />
+
+## Soal 2
+"Capture hasil basis data Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari Jangan lupa push dengan pesan commit: "W09: Jawaban soal 2". "
+
+![Screenshot](assets-report/09-jawaban-soal-2.png)
+
+    We can create a database online in Vercel, in this practicum experiment we use Postgress which is a serverless SQL. In this practicum we need to connect/create .env in our root framework project, which has a private configuration code that can be seen in Vercel after completing Create Postgress Database in the store tabs section. We also need to verify that the .gitignore list includes .env so that it is not exposed when pushing the repository to our Github.
+
+<br />
