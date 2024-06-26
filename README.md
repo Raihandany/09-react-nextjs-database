@@ -54,10 +54,12 @@ Jangan lupa push dengan pesan commit: "W09: Jawaban soal 4"."
 ### Practicum 2 <br />
 
 ## Soal 5
-"Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ? Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan jelaskan!
-Jangan lupa push dengan pesan commit: "W09: Jawaban soal 4"."
+"Lakukan push, kemudian perhatikan di akun dashboard Vercel project Anda. Capture dan lampirkan link aplikasi Anda yang telah berhasil di deploy, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+Jangan lupa push dengan pesan commit: "W09: Jawaban soal 5"."
 
-![Screenshot](assets-report/09-jawaban-soal-4-1.png)<br />
-    sasd
+![Screenshot](assets-report/09-jawaban-soal-5.png)<br />
+    link : https://09-react-nextjs-database.vercel.app/
+    In this practicum, Vercel automatically runs the latest version of the Web-Application that is linked to the GitHub repository that was done at the beginning of Vercel creation. Vercel checks the code and then applies it automatically. 
+    The results of the Vercel dashboard that I got can be seen from this screen shot.
 
 <br />
