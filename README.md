@@ -81,3 +81,21 @@ Jangan lupa push dengan pesan commit: "W09: Jawaban soal 7"."
     In this practicum we try to bring up the data from LatestInvoices, the data that appears in the form of photos, names and emails that have been registered in the database according to the const user and customer.
     
 <br />
+
+### TUGAS PRAKTIKUM
+
+## Soal 1
+"Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut."
+
+![Screenshot](assets-report/09-jawaban-soal-7.png)<br />
+    Done the practicum assignment
+
+<br />
+
+## Soal 2
+"Perhatikan fungsi fetchCardData() (pada file src\model\query.tsx) dari soal nomor 1. Jelaskan maksud kode dan kueri yang dilakukan dalam fungsi tersebut! "
+
+    This task provides a function to retrieve summary data for dashboard cards from a PostgreSQL database. 
+    This function retrieves three SQL queries in parallel for the number of invoices, number of customers, and number of paid and pending invoices. 
+    
+<br />
