@@ -69,6 +69,7 @@ Jangan lupa push dengan pesan commit: "W09: Jawaban soal 5"."
 Jangan lupa push dengan pesan commit: "W09: Jawaban soal 6"."
 
 ![Screenshot](assets-report/09-jawaban-soal-6.png)<br />
+    In this practicum we got a bar chart, it has 12 months with the starting month January and the last month December. In the height that corresponds to the revenue that we have from the database that has been searched, I did not find any error in starting the revenue bar chart, I just need to delete the comment.
     
 
 <br />
