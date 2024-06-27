@@ -3,6 +3,7 @@ import RevenueChart from '@/app/components/molecules/revenue-chart';
 import LatestInvoices from '@/app/components/molecules/latest-invoices';
 import { lusitana } from '@/app/components/atoms/fonts';
 import { fetchCardData } from '@/model/query';
+
 //import { CardWrapper } from './components/molecules/card';
 
 export default async function Page() {
@@ -11,7 +12,8 @@ export default async function Page() {
     numberOfCustomers,
     totalPaidInvoices,
     totalPendingInvoices,
-  } = await fetchCardData();
+  } 
+  = await fetchCardData();
 
   return (
     <main>
