@@ -87,7 +87,7 @@ Jangan lupa push dengan pesan commit: "W09: Jawaban soal 7"."
 ## Soal 1
 "Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. Silakan Anda sesuaikan sehingga dapat tampil seperti gambar berikut."
 
-![Screenshot](assets-report/09-jawaban-soal-7.png)<br />
+![Screenshot](assets-report/09-jawaban-soal-Tugas1.png)<br />
     Done the practicum assignment
 
 <br />
